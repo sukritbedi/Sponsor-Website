@@ -152,8 +152,8 @@
                         <span class="icon-bar"></span>
                     </button>
                     <h1>
-                        <a class="navbar-brand" href="index.html">Shuttlers
-                            <span>omerset</span>
+                        <a href="index.html">
+                          <img id="logo" src="images/som_logo.png" alt="Somerset Logo">
                         </a>
                     </h1>
 
@@ -172,48 +172,19 @@
                                 <a href="#explore" class="scroll">Explore</a>
                             </li>
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle effect-3" data-toggle="dropdown">Sub Menu
-                                    <b class="caret"></b>
-                                </a>
-                                <ul class="dropdown-menu">
-
-                                    <li>
-                                        <a href="#gallery" class="scroll">Gallery</a>
-                                    </li>
-
-                                    <li>
-                                        <a href="#price" class="scroll">Plans</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="dropdown">
                                 <a href="#" class="dropdown-toggle effect-3" data-toggle="dropdown">More
                                     <b class="caret"></b>
                                 </a>
                                 <ul class="dropdown-menu">
+                                  <li>
+                                      <a href="#gallery" class="scroll">Gallery</a>
+                                  </li>
 
-                                    <li>
-                                        <a href="#team" class="scroll">Team</a>
-                                    </li>
+                                  <li>
+                                      <a href="#price" class="scroll">Plans</a>
+                                  </li>
+                                  
                                     <li class="divider"></li>
-                                    <li>
-                                        <a href="#blog" class="scroll">Blog</a>
-                                    </li>
-                                    <li class="divider"></li>
-                                    <li>
-                                        <a class="s-menu" href="#">Sub menu
-                                            <b class="fa fa-caret-right"></b>
-                                        </a>
-                                        <ul class="dropdown-menu sub-menu">
-                                            <li>
-                                                <a href="#">link1</a>
-                                            </li>
-                                            <li class="divider"></li>
-                                            <li>
-                                                <a href="#">link2</a>
-                                            </li>
-                                        </ul>
-                                    </li>
 
                                 </ul>
                             </li>
@@ -590,146 +561,6 @@
         </div>
     </div>
     <!-- //testimonials -->
-    <!-- team-->
-    <div class="team text-center" id="team">
-        <div class="team-layer">
-            <h3 class="title">Expert Instructors</h3>
-            <section class="slider">
-                <div class="flexslider">
-                    <ul class="slides">
-                        <li>
-                            <div class="col-md-6 col-sm-6 w3_agile-team-grid ">
-                                <img src="images/s1.png" alt=" " class="img-responsive" />
-                                <h5>John Doe,
-                                    <span>Coach</span>
-                                </h5>
-                                <p>Lorem ipsum dolor sit amet sed do eiusmod incididunt ut labore minim veniam.</p>
-                                <ul class="social_list">
-                                    <li>
-                                        <a href="#" class="facebook">
-                                            <span class="fa fa-facebook" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="twitter">
-                                            <span class="fa fa-twitter" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="dribble">
-                                            <span class="fa fa-dribbble" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="vimeo">
-                                            <span class="fa fa-vimeo" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="col-md-6 col-sm-6  w3_agile-team-grid">
-                                <img src="images/s2.png" alt=" " class="img-responsive" />
-                                <h5>Jane Doe,
-                                    <span>Fitness </span>
-                                </h5>
-                                <p>Lorem ipsum dolor sit amet sed do eiusmod incididunt ut labore minim veniam.</p>
-                                <ul class="social_list">
-                                    <li>
-                                        <a href="#" class="facebook">
-                                            <span class="fa fa-facebook" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="twitter">
-                                            <span class="fa fa-twitter" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="dribble">
-                                            <span class="fa fa-dribbble" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="vimeo">
-                                            <span class="fa fa-vimeo" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                            <div class="clearfix"></div>
-
-                        </li>
-                        <li>
-                            <div class="col-md-6 col-sm-6  w3_agile-team-grid">
-                                <img src="images/s2.png" alt=" " class="img-responsive" />
-                                <h5>Daniel Nyari,
-                                    <span>Fitness</span>
-                                </h5>
-                                <p>Lorem ipsum dolor sit amet sed do eiusmod incididunt ut labore minim veniam.</p>
-                                <ul class="social_list">
-                                    <li>
-                                        <a href="#" class="facebook">
-                                            <span class="fa fa-facebook" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="twitter">
-                                            <span class="fa fa-twitter" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="dribble">
-                                            <span class="fa fa-dribbble" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="vimeo">
-                                            <span class="fa fa-vimeo" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                </ul>
-
-                            </div>
-                            <div class="col-md-6 col-sm-6  w3_agile-team-grid">
-                                <img src="images/s1.png" alt=" " class="img-responsive" />
-                                <h5>Daniel Nyari,
-                                    <span> Flexibility</span>
-                                </h5>
-                                <p>Lorem ipsum dolor sit amet sed do eiusmod incididunt ut labore minim veniam.</p>
-                                <ul class="social_list">
-                                    <li>
-                                        <a href="#" class="facebook">
-                                            <span class="fa fa-facebook" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="twitter">
-                                            <span class="fa fa-twitter" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="dribble">
-                                            <span class="fa fa-dribbble" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="vimeo">
-                                            <span class="fa fa-vimeo" aria-hidden="true"></span>
-                                        </a>
-                                    </li>
-                                </ul>
-
-                            </div>
-                            <div class="clearfix"></div>
-                        </li>
-
-                    </ul>
-                </div>
-            </section>
-
-        </div>
-    </div>
-    <!-- //team -->
     <!-- Contact-form -->
     <div class="section" id="contact">
         <h3 class="title1 text-center">Contact Us</h3>
@@ -737,7 +568,7 @@
           <div class="map-grid">
             <div class="mapouter">
               <div class="gmap_canvas">
-                <iframe width="auto" height="400" id="gmap_canvas" src="https://maps.google.com/maps?q=vellore&t=&z=11&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                <iframe width="auto" height="400" id="gmap_canvas" src="https://maps.google.com/maps?width=1319&height=400&hl=en&q=(somerset%20sports%20academy)&ie=UTF8t=&z=13&iwloc=B&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
               </div>
               <style>
                 .mapouter {
@@ -759,15 +590,15 @@
             <div class="w3layouts-contact-pos-grid">
                 <span class="field-icon fa fa-map-marker" aria-hidden="true"></span>
                 <ul>
-                    <li>VIT University</li>
-                    <li>Vellore</li>
-                    <li>Tamil Nadu.</li>
+                    <li>1254N/ 9, Regional Transport Office Rd</li
+                    <li>Phase 2, Sathuvachari</li>
+                    <li>Vellore, Tamil Nadu</li>
                 </ul>
             </div>
             <div class="w3layouts-contact-pos-grid sr1">
                 <span class="field-icon fa fa-phone" aria-hidden="true"></span>
                 <ul>
-                    <li>.</li>
+                    <li>+91 94435 42581</li>
                     <li>+91 99947 84044</li>
                     <li>.</li>
                 </ul>
@@ -786,13 +617,13 @@
                 <span class="field-icon fa fa-clock-o" aria-hidden="true"></span>
                 <ul>
                     <li>Monday-Friday :
-                        <span> 07:00 AM-22:00 PM</span>
+                        <span> 05:00 AM-10:00 PM</span>
                     </li>
-                    <li>saturday :
-                        <span>06:00 AM-23:00 PM</span>
+                    <li>Saturday :
+                        <span> 05:00 AM-10:00 PM</span>
                     </li>
-                    <li>sunday :
-                        <span>06:00 AM-23:00 PM</span>
+                    <li>Sunday :
+                        <span> 05:00 AM-10:00 PM</span>
                     </li>
                 </ul>
             </div>
@@ -832,15 +663,15 @@
     <!-- footer -->
     <div class="footer-main text-center">
         <div class="footer-grid">
-            <a href="#">
+            <a href="https://www.facebook.com/SomersetShuttlersBadminton/">
                 <span class="fa fa-facebook-official icon" aria-hidden="true"></span>
                 <h6>like on facebook</h6>
             </a>
         </div>
         <div class="footer-grid">
-            <a href="#">
-                <span class="fa fa-twitter-square icon" aria-hidden="true"></span>
-                <h6>follow on twitter</h6>
+            <a href="https://www.instagram.com/somerset.shuttlers/?hl=en">
+                <span class="fa fa-instagram icon" aria-hidden="true"></span>
+                <h6>follow on instagram</h6>
             </a>
         </div>
         <div class="footer-grid">
@@ -852,14 +683,14 @@
         <div class="footer-grid">
             <a href="#contact" class="scroll">
                 <span class="fa fa-question-circle icon" aria-hidden="true"></span>
-                <h6>Any qusetions?</h6>
+                <h6>Any questions?</h6>
             </a>
         </div>
     </div>
     <div class="footer-bottom">
         <div class="container">
             <div class="footer-copy text-center">
-                <p>© 2018 Somerset Shuttlers. All rights reserved | Design by
+                <p>© 2019 Somerset Shuttlers. All rights reserved | Design by
                     <a href="http://isavit.club">ISA-VIT Student Section</a>
                 </p>
             </div>
